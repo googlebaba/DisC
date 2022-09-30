@@ -1,5 +1,5 @@
 # DisC
-Souce code for "NeurIPS2022-Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure"
+Source code for "NeurIPS2022-Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure"
 
 paper: https://arxiv.org/pdf/2209.14107.pdf
 
