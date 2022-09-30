@@ -1,7 +1,7 @@
 # DisC
 Souce code for "NeurIPS2022-Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure"
 
-paper: 
+paper: https://arxiv.org/pdf/2209.14107.pdf
 
 # Contact
 Shaohua Fan, Email:fanshaohua@bupt.edu.cn
@@ -9,7 +9,7 @@ Shaohua Fan, Email:fanshaohua@bupt.edu.cn
 # Datasets 
 Datasets used for Table 1: https://drive.google.com/file/d/1pv_cFKYJxXpT4qJ6jgvNn17MIovZUrhA/view?usp=sharing
 
-Unseen test set for table 1: https://drive.google.com/file/d/1EBbFh8HDYjO4XpNctPX6U4iVYkHy6qSK/view?usp=sharing  # f[0] is the unbiased test set
+Unseen test set for Table 2: https://drive.google.com/file/d/1EBbFh8HDYjO4XpNctPX6U4iVYkHy6qSK/view?usp=sharing  # f[0] is the unbiased test set
 
 # Requirements
 pip -r requirements.txt
