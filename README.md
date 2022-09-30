@@ -3,7 +3,7 @@ Souce code for "NeurIPS2022-Debiasing Graph Neural Networks via Learning Disenta
 
 paper: https://arxiv.org/pdf/2209.14107.pdf
 
-![image](https://github.com/googlebaba/DisC/framework.png)
+![image](https://github.com/googlebaba/DisC/blob/main/framework.png)
 The framework of DisC
 # Contact
 Shaohua Fan, Email:fanshaohua@bupt.edu.cn
