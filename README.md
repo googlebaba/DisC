@@ -26,7 +26,7 @@ DisC_Gin
 
 python Disc_gin_run.py
 
-DisC_Gin
+DisC_Gcnii
 
 python Disc_gcnii_run.py
 
