@@ -12,7 +12,7 @@ Shaohua Fan, Email:fanshaohua@bupt.edu.cn
 # Datasets 
 Datasets used for Table 1: https://drive.google.com/file/d/1pv_cFKYJxXpT4qJ6jgvNn17MIovZUrhA/view?usp=sharing
 
-Unseen test set for Table 2: https://drive.google.com/file/d/1EBbFh8HDYjO4XpNctPX6U4iVYkHy6qSK/view?usp=sharing  # f[0] is the unbiased test set
+Unseen test set for Table 2: https://drive.google.com/file/d/18LE0RnUBksGHsbO0lFtEC0O4jiO7B9_J/view?usp=sharing  # f[0] is the unbiased test set
 
 # Requirements
 pip -r requirements.txt
