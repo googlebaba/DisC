@@ -7,7 +7,7 @@ paper: https://arxiv.org/pdf/2209.14107.pdf
 
                                                              The framework of DisC
 # Contact
-Shaohua Fan, Email:fanshaohua@bupt.edu.cn
+Shaohua Fan, Email:fanshaohua@bupt.cn
 
 # Datasets 
 Datasets used for Table 1: https://drive.google.com/file/d/1pv_cFKYJxXpT4qJ6jgvNn17MIovZUrhA/view?usp=sharing
